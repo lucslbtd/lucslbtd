@@ -2,13 +2,7 @@
 
 - Desenvolvedor Android
 - Apaixonado por mobile
-- Fanboy do Kotlin
 
- <div>
-  <a href="https://github.com/lucslbtd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucslbtd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucslbtd&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Rafa-Ts" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
