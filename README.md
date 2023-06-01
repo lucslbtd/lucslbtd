@@ -1,7 +1,6 @@
-### Eai, tudo bem? Meu nome é Lucas! 👋
+### Welcome to my Github! I hope you like Mobile development 👋
 
-- Desenvolvedor Android
-- Apaixonado por mobile
+- Mid Android Developer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
